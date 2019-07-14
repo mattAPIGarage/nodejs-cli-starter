@@ -1,0 +1,30 @@
+{
+  "name": "cia-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "cli-spinner": "^0.2.10",
+    "cli-table": "^0.3.1",
+    "commander": "^2.20.0",
+    "cowsay": "^1.4.0",
+    "figlet": "^1.2.3",
+    "node-emoji": "^1.10.0",
+    "prompts": "^2.1.0",
+    "ramda": "^0.26.1",
+    "yosay": "^2.0.2"
+  },
+  "devDependencies": {
+    "eslint": "^6.0.1",
+    "eslint-config-prettier": "^6.0.0",
+    "eslint-plugin-prettier": "^3.1.0",
+    "prettier": "^1.18.2"
+  }
+}
