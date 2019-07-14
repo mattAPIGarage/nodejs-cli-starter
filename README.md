@@ -13,3 +13,6 @@ $ ./cli.sh -h
 
 The interactive prompt is based on the missing commandline options.
 
+## TODO
+- add example on using cli-table, cli-spinner, and chalk
+
